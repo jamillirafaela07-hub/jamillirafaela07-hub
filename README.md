@@ -26,6 +26,28 @@
 
 ###
 
-<p align="left"></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jamillirafaela07-hub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+###
+
+<p align="left">Encontre-me aqui</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamillirafaela07-hub/jamillirafaela07-hub/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamillirafaela07-hub/jamillirafaela07-hub/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jamillirafaela07-hub/jamillirafaela07-hub/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 ###
