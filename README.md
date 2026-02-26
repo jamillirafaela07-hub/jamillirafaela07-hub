@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">Sou a Jamilli... atualmente focada em desenvolvimento full stack, com experiência em TypeScript, HTML, CSS, NodeJS, Sequelize, Express, MySQL.</p>
 
 ###
