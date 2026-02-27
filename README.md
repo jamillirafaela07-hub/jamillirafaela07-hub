@@ -1,4 +1,4 @@
-<h1 align="left">Oiê!🌸</h1>
+<h2 align="left">Oiê!🌸</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Tecnologias que uso</h3>
+<h3 align="left">Costumo usar</h3>
 
 ###
 
@@ -38,12 +38,12 @@
 
 ###
 
-<h2 align="left">Enconte-me aqui</h2>
+<h3 align="left">Enconte-me aqui</h3>
 
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/jamilli-rafaela" target="_blank">
+  <a href="https://www.linkedin.com/in/jamilli-rafaela" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
